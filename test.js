@@ -12,7 +12,7 @@ const print= function lovepreet(n,m){
 
 const addition=function fn(n,m,useless)
 {
-  total=n-m
+  total=n+m
 
 useless(total)
 }

@@ -19,18 +19,3 @@ useless(total)
 
 
 print('love','singh')
-
-
-
-function getfunction(n){
-
-if(n%2===0)
-return ()=>  n+2
-else {
-  return ()=>  n-2
-}
-
-}
-
-const fn=getfunction(9)
-console.log(fn());
